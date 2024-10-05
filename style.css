@@ -1,0 +1,149 @@
+body {
+    background-image: url('reeee.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial Black', Times, serif;
+}
+
+
+header {
+    background-color: #222222;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    font-size: 25px;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+#home{
+    text-align: center;
+    color:hsl(75, 69%, 73%);
+    font-size: 48px;
+
+}
+
+.home-picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+img {
+    max-width: 15%;
+    height: auto;
+    border-radius: 50%; 
+    border: 5px solid #ffffff; 
+}
+
+#about {
+    text-align: center;
+    color:hsl(75, 69%, 73%);
+    font-size: 48px;
+}
+
+.about-picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+img  {
+    max-width: 15%;
+    height: auto;
+    border-radius: 50%; 
+    border: 5px solid #ffffff; 
+}
+
+#hobbies {
+    text-align: center;
+    color:hsl(75, 69%, 73%);
+    font-size: 48px;
+}
+
+.about-picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+img  {
+    max-width: 25%;
+    height: auto;
+    border-radius: 50%; 
+    border: 5px solid #ffffff; 
+}
+
+#contact {
+    text-align: center;
+    color:hsl(75, 69%, 73%  );
+    font-size: 48px;
+}
+
+.about-picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+img  {
+    max-width: 25%;
+    height: auto;
+    border-radius: 50%; 
+    border: 5px solid #ffffff; 
+}
+
+
+h2 {
+    text-align: left;
+    font-style: italic;
+}
+
+.section {
+    padding: 40px;
+}
+
+.section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    background-color: #222222;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
